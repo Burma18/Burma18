@@ -30,5 +30,6 @@ I'm deeply passionate about backend development, specializing in creating scalab
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burmarysmatova)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Burma18)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://burmarysmatova.vercel.app)
 
 **Let's build something exceptional together!**
