@@ -1,6 +1,6 @@
 # Hi 👋, I'm Burma!
 
-### A dedicated Software Engineer at WeDevx
+### Software Engineer
 
 ![Visitors](https://badges.pufler.dev/visits/burma/burma?style=flat-square)
 
