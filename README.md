@@ -2,8 +2,6 @@
 
 ### Software Engineer
 
-![Visitors](https://badges.pufler.dev/visits/burma/burma?style=flat-square)
-
 I'm deeply passionate about backend development, specializing in creating scalable and robust server-side applications. I leverage a wide array of cutting-edge technologies to solve complex problems and drive innovation.
 
 🛠️ **Tech Stack**
